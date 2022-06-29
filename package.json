@@ -1,0 +1,10 @@
+{
+  "name": "sfs_report_template_migrator",
+  "version": "0.1.0",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "jsforce": "^1.11.0",
+    "puppeteer": "^15.1.0",
+    "yaml": "^2.1.1"
+  }
+}

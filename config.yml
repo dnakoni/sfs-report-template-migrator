@@ -1,0 +1,16 @@
+reportNames:
+  - "DEMO TEMPLATE"
+reportSubtypesToMigrate:
+  - "SA_WO"
+  - "SA_WOLI"
+  - "WO"
+  - "WOLI"
+createReportsInTargetOrg: True
+runInBackground: False
+writePOSTDataToFile: True
+errorLogFilename: "error.log"
+windowWidth: 1800 #pixels
+windowHeight: 1000 #pixels
+timeoutBetweenActions: 6000 #milliseconds
+removeSourceImages: True
+imageReplacementText: "IMAGE REMOVED"
